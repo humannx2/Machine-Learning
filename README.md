@@ -1,2 +1,4 @@
 # Machine-Learning
-Algorithms and Other Stuff
+### Algorithms and Projects
+
+  The Datasets for the projects can be found under the dataset folder.
