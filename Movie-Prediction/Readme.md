@@ -66,7 +66,7 @@ You need to create a HTML template for the web interface. It must contains a for
 
 ### datasets/movies.csv
 
-The application requires a dataset of movies in CSV format. The dataset should have at least one column named `title` which contains the movie titles.
+The application requires a dataset of movies in CSV format. The dataset should have at least one column named `title` which contains the movie titles. The dataset used for this model is available under the datasets folder.
 
 ## Contributing
 
