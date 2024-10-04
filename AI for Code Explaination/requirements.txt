@@ -1,0 +1,6 @@
+langchain
+ipykernel
+google-generativeai
+streamlit
+langchain_google_genai
+python-dotenv
